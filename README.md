@@ -1,5 +1,8 @@
 # Laundry
 
+Laundary App is designed because of basic need to of keeping Track of regular Laundary system in Hostels.
+This is a revolutionary app by ``` ANVAY MISHRA ```
+
 A basic implementation of some components of an app.
 
 ## Getting Started
